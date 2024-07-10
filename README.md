@@ -5,4 +5,4 @@ Currently planned versions to maintain:
 
 ## What does "maintenance" here means?
 
-Updating ASM so plugins on modern java will work. Probably other libraries that also required to be updated so version would be alive. No bugfixes, features, etc.
+Updating ASM so plugins on modern java will work. Probably other libraries that also required to be updated so version would be alive. No bugfixes, features, etc by me, but if you want to PR something, you can do anything you want while it is not breaking backward compatibility.
